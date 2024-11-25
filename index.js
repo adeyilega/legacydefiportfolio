@@ -172,8 +172,8 @@ document.addEventListener("DOMContentLoaded", function () {
 
   let counting1 = false;
   let count = 0;
-  const finalCount = 2000; // Change to your desired final count
-  const incrementAmount = 10; // Change the speed of counting1
+  const finalCount = 10000; // Change to your desired final count
+  const incrementAmount = 100; // Change the speed of counting1
 
   // Function to start counting1
   function startCounting1() {
